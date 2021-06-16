@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj": {}
+    "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj": {
+    "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj",
         "projectName": "DIOCursoMVC",
-        "projectPath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj",
+        "projectPath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj",
         "packagesPath": "C:\\Users\\Igor de Moraes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\DIOCursoMVC\\DIOCursoMVC\\obj\\",
+        "outputPath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\DIOCursoMVC\\DIOCursoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

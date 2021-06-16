@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+wWastBNSdfB/gfRr8iYlcGaOla+CZS4pI4j01O6ebj6Fb6B20E08GZgfnOBghQoKwJNKFVzsqg5OKPF85GbQ==",
+  "dgSpecHash": "AeF+l9tOcQpaSILfdRTTWhdygd7DlkQGAYc8AS1Z3tMfI+vC0aceF/rEFbhQuHvkAr9Gw3Dw2rHa4QEaUty1Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj",
+  "projectFilePath": "C:\\Users\\Igor de Moraes\\Documents\\Projetos\\Digital Innovation One\\DIOCursoMVC\\DIOCursoMVC\\DIOCursoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Igor de Moraes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
