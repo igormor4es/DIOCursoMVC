@@ -14,6 +14,6 @@ namespace DIOCursoMVC.Models
         [Required(ErrorMessage = "O campo Descrição é OBRIGATÓRIO!")]
         public string Descricao { get; set; }
 
-        public List<Produto> Produtos { get; set; }
+        //public List<Produto> Produtos { get; set; }
     }
 }
